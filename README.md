@@ -19,7 +19,7 @@ Built as a self-study and portfolio project in preparation for **Quantitative Ri
 |--------|-------|-------------|
 | [`MonteCarloVAR`](./MonteCarloVAR/) | Market Risk – VaR & CVaR | Monte Carlo, Cholesky, Kupiec Backtest |
 | [`PortfolioOptimization`](./PortfolioOptimization/) | Portfolio Construction | Markowitz, Risk Parity, Efficient Frontier |
-| [`QuantFinanceLearningNBs`](./QuantFinanceLearningNBs/) | Quant Finance Reference | 30+ concepts, theory + code |
+| [`QuantFinanceLearningNBs`](./QuantFinanceLearningNBs/) | Quant Finance Reference | 20+ concepts, theory + code |
 
 ---
 
