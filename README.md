@@ -70,8 +70,8 @@ Each notebook includes formal mathematical derivations, Python implementations, 
 ### Requirements
 
 ```bash
-git clone https://github.com/<your-username>/quant-risk-python.git
-cd quant-risk-python
+git clone https://github.com/FlorianEbner96/Quant-Portfolio.git
+cd Quant-Portfolio
 pip install -r requirements.txt
 ```
 
